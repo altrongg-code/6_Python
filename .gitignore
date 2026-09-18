@@ -6,3 +6,4 @@ __pycache__
 _sample*
 stocks.*
 stocks_for_practice.*
+*.pkl
