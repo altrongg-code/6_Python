@@ -7,3 +7,6 @@ _sample*
 stocks.*
 stocks_for_practice.*
 *.pkl
+
+# 환경 변수 파일
+.env
